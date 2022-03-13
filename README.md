@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Muhammadabdullo, [3/13/2022 7:05 PM]
-<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
 
 
 <h3 align="center">
-    Welcome to Clever Coder's profile!
+    Welcome MUHAMMADYUSUF0217 profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/CleverCoder/readme-typing-svg">
+    <a href="https://github.com/MUHAMMADYUSUF0217/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=React%20Developer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -36,22 +35,16 @@ Muhammadabdullo, [3/13/2022 7:05 PM]
 
 <!-- Badges template - https://github.com/clevercoderr -->
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/MUHAMMADYUSUF0217">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
+    <a href="https://www.linkedin.com/in/muhammadyusuf-urmonov-030368215/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/clevercoderr">
-        <img alt="Hackerrank"
-             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="https://discord.gg/clevercoderr">
+             <a href="https://discord.gg/clevercoderr">
         <img alt="Discord"
              src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.facebook.com/clevercoderr">
@@ -63,15 +56,15 @@ Muhammadabdullo, [3/13/2022 7:05 PM]
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=clevercoderr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="clevercoderr's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=clevercoderr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="clevercoderr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=clevercoderr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=MUHAMMADYUSUF0217&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="clevercoderr's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=MUHAMMADYUSUF0217&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADYUSUF0217&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="MUHAMMADYUSUF0217's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADYUSUF0217&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <p>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=clevercoderr&theme=monokai&column=8&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADYUSUF0217&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
 
@@ -80,25 +73,24 @@ Muhammadabdullo, [3/13/2022 7:05 PM]
 
 ### 👨‍💻 Programming Languages
 
-Muhammadabdullo, [3/13/2022 7:05 PM]
 
 
 <p>
     <a href="#">
-        <img alt="C#"
-             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+        <img alt="Html"
+             src="https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=html&logoColor=white"></a>
     <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+        <img alt="Css"
+             src="https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=css&logoColor=white"/></a>
     <a href="#">
-        <img alt="Java"
-             src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+        <img alt="Js"
+             src="https://img.shields.io/badge/Js-%2300599C.svg?style=for-the-badge&logo=js&logoColor=white"/></a>
     <a href="#">
-        <img alt="Python"
-             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <img alt="Bootstrap"
+             src="https://img.shields.io/badge/bootstrap-ED8B00?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
     <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+        <img alt="React"
+             src="https://img.shields.io/badge/react%20-%23025E8C.svg?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
 
 
