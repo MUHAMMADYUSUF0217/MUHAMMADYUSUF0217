@@ -184,4 +184,4 @@ Here are some ideas to get you started:
 
 ## 💻 Last month's activity
 <!-- https://github.com/MUHAMMADYUSUF0217/github-readme-activity-graph -->
-<a href=""><img alt="MUHAMMADYUSUF0217's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MUHAMMADYUSUF&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="MUHAMMADYUSUF0217's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MUHAMMADYUSUF0217&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
