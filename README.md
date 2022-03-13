@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-    Welcome MUHAMMADYUSUF0217 profile!
+    Welcome MUHAMMADYUSUF profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/clevercoderr -->
+<!-- Badges template - https://github.com/MUHAMMADYUSUF0217 -->
 <p align="center">
     <a href="https://github.com/MUHAMMADYUSUF0217">
         <img alt="Github"
