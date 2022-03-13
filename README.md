@@ -78,10 +78,10 @@ Here are some ideas to get you started:
 <p>
     <a href="#">
         <img alt="Html"
-             src="https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=html&logoColor=white"></a>
+             src="https://img.shields.io/badge/html?style=for-the-badge&logo=html&logoColor=white"></a>
     <a href="#">
         <img alt="Css"
-             src="https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=css&logoColor=white"/></a>
+             src="https://img.shields.io/badge/css?style=for-the-badge&logo=css&logoColor=white"/></a>
     <a href="#">
         <img alt="Js"
              src="https://img.shields.io/badge/Js-%2300599C.svg?style=for-the-badge&logo=js&logoColor=white"/></a>
