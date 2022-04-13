@@ -41,13 +41,10 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/muhammadyusuf-urmonov-030368215/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/17122298/clever-coder">
+    <a href="https://stackoverflow.com/users/16990657/muhammadyusuf-urmonov">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-             <a href="https://discord.gg/clevercoderr">
-        <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/clevercoderr">
+    <a href="hhttps://www.facebook.com/muhammadyusuf.ormonov.5">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100068970307814">
